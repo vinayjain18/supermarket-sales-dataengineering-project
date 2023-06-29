@@ -23,7 +23,7 @@ Contibute to this open source project - https://github.com/mage-ai/mage-ai
 ## Dataset Used
 Supermarket Sales Data - This dataset contains sales of the 3 branches of supermarket. It has fields like Invoice id, date, time, customer type, gender, payment type, Unit price, Total, COGS, Tax percent, and few more.
 
-Here is the dataset used in the video - https://github.com/vinayjain18/supermarket-sales-dataengineering-project/blob/main/data/supermarket_sales.csv
+Here is the dataset used in this project - https://github.com/vinayjain18/supermarket-sales-dataengineering-project/blob/main/data/supermarket_sales.csv
 
 More info about dataset can be found here:<br>
 Kaggle Website - https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales
